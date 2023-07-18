@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<html>
+
+<head>
+<meta charset="UTF-8">
+<!--More metadata ro be inserted here.-->
+<title> &lt;HTML in easy steps&gt;</title>
+&quot;HTML in easy steps&quot;
+</head>
+
+<body>
+<!--Content to appear in browser to be added here.-->
+</body>
+
+</html>
